@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{436:function(t,e,n){"use strict";n.r(e);var o={name:"LayoutForMobi"},l=n(11),component=Object(l.a)(o,(function(){var t=this,e=t.$createElement;return(t._self._c||e)("div",{staticClass:"max-w-lg mx-auto px-2 md:px-0"},[t._t("default")],2)}),[],!1,null,"7a31fdbd",null);e.default=component.exports}}]);
