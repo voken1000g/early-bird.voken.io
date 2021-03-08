@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{262:function(o,n,t){"use strict";t.r(n),n.default={Navigation:"Navigation",Support:"Support",Contacts:"Contacts",Links:"Links",Home:"Home",Public_Sale:"Public-Sale",Early_Bird:"Early-Bird",VokenTB_contract_address:"VokenTB contract address"}}}]);
