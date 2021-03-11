@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{550:function(t,n,e){"use strict";e.r(n);var l={name:"LayoutContainer"},o=e(12),component=Object(o.a)(l,(function(){var t=this,n=t.$createElement;return(t._self._c||n)("div",{staticClass:"max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-7xl"},[t._t("default")],2)}),[],!1,null,null,null);n.default=component.exports}}]);
